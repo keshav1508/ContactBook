@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "335674247459",
+    "firebase_url": "https://testproject-2ffeb-default-rtdb.firebaseio.com",
+    "project_id": "testproject-2ffeb",
+    "storage_bucket": "testproject-2ffeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335674247459:android:305220546584d4ca45a496",
+        "android_client_info": {
+          "package_name": "com.example.fbasevideo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335674247459-lbk0s6i3vufcunkujeo5ni5dvk1ap6ai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx77aZKHZWyKcxDQZQXqVOL8FOnURFQrs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335674247459-lbk0s6i3vufcunkujeo5ni5dvk1ap6ai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
